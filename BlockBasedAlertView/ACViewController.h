@@ -10,4 +10,6 @@
 
 @interface ACViewController : UIViewController
 
+- (IBAction)demoAlertView:(id)sender;
+
 @end
