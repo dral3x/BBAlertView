@@ -1,9 +1,10 @@
 # BBAlertView
 
-BBAlertView is a [UIAlertView](http://developer.apple.com/library/ios/#documentation/UIKit/Reference/UIAlertView_Class/UIAlertView/UIAlertView.html) with blocks.
+BBAlertView is [UIAlertView](http://developer.apple.com/library/ios/#documentation/UIKit/Reference/UIAlertView_Class/UIAlertView/UIAlertView.html) with blocks.
 
-It is very easy to use:
+## How to use it
 
+It's super easy.
 First, create a new BBAlertView object
 
     BBAlertView * alerView = [BBAlertView alertWithTitle:@"Title goes here" 
